@@ -35,7 +35,7 @@ The dataset contains customer information such as:
 - **Tenure (Months)**  
 - **Churn Status (Yes/No)**  
 
-You can find the dataset [here](data/customer_churn.csv).  
+You can find the dataset [here](https://github.com/lathwalvinayak/Customer-Churn-Analysis/blob/main/WA_Fn-UseC_-Telco-Customer-Churn.csv)).  
 
 ## 🔍 SQL Queries Performed  
 
